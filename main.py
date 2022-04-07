@@ -8,7 +8,7 @@ FPS = 32
 ScreenWidth = 289
 ScreenHeight = 511
 Screen = pygame.display.set_mode((ScreenWidth, ScreenHeight))  #game screen
-
+print("Hello")
 GroundY = ScreenHeight * 0.8
 
 Game_Image = { }
